@@ -42,23 +42,12 @@ I enjoy learning new technologies and turning creative ideas into real-world pro
 
 ---
 
-### 🌟 Featured Projects
-
-<a href="https://github.com/JuliaAlaa/Virtual-Cart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaAlaa&repo=Virtual-Cart&theme=tokyonight" />
-</a>
-<a href="https://github.com/JuliaAlaa/Supermarket-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliaAlaa&repo=Supermarket-App&theme=tokyonight" />
-</a>
-
----
-
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/julia-alaa" target="_blank">
+<a href="https://www.linkedin.com/in/julia-fahim-934423255/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:juliaalaa.dev@gmail.com" target="_blank">
+<a href="mailto:juliafahim7@gmail.com" target="_blank">
   <img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 <a href="https://github.com/JuliaAlaa" target="_blank">
