@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://github.com/JuliaAlaa">
-    <img width="80%" alt="Hello, I'm Julia Alaa – Flutter & Front-End Developer" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<h1 align="center">Hi there 👋, I'm Julia Alaa</h1>
+<h3 align="center">💙 Flutter & Front-End Developer</h3>
 
 <br />
 
@@ -45,13 +42,28 @@ I enjoy learning new technologies and turning creative ideas into real-world pro
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/julia-fahim-934423255/" target="_blank">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.linkedin.com/in/julia-fahim-934423255/" target="_blank">
+  LinkedIn
+</a>
+
+<br />
+
+<a href="mailto:juliafahim7@gmail.com" target="_blank">
+  <img align="left" alt="Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 <a href="mailto:juliafahim7@gmail.com" target="_blank">
-  <img align="left" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  Email
+</a>
+
+<br />
+
+<a href="https://github.com/JuliaAlaa" target="_blank">
+  <img align="left" alt="GitHub" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 </a>
 <a href="https://github.com/JuliaAlaa" target="_blank">
-  <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+  GitHub
 </a>
 
 <br clear="left"/>
