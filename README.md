@@ -20,7 +20,7 @@ I enjoy learning new technologies and turning creative ideas into real-world pro
 - 🛍️ Built several apps including **Virtual Cart** (AI-powered smart shopping system)  
 - ☁️ Familiar with **Firebase**, **Socket.IO**, and **RESTful APIs**  
 - 💬 Ask me about Flutter, Dart, Firebase, or front-end frameworks  
-- 📫 Reach me at: [juliaalaa.dev@gmail.com](mailto:juliaalaa.dev@gmail.com)
+- 📫 Reach me at: [juliafahim7@gmail.com](mailto:juliafahim7@gmail.com)
 
 ---
 
