@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Julia Alaa</h1>
-<h3 align="center">💙 Flutter & Front-End Developer</h3>
+<h3 align="center">💙 Flutter &   Software Tester</h3>
 
 <br />
 
