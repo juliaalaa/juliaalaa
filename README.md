@@ -11,7 +11,7 @@ I enjoy learning new technologies and turning creative ideas into real-world pro
 
 ### 💫 About Me
 
-- 💻 Flutter & Front-End Developer  
+- 💻 Flutter & Software Tester  
 - 🎓 Computer Science Graduate – Modern Academy  
 - 🧠 Interested in Mobile App Development, Clean Architecture, and UI/UX Design  
 - 🛍️ Built several apps including **Virtual Cart** (AI-powered smart shopping system)  
